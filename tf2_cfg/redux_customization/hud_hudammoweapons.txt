@@ -1,0 +1,1 @@
+#base ../../custom/solarlighthud-redux/resource/ui/redux_customization/ammo/hudammoweapons_center.res 

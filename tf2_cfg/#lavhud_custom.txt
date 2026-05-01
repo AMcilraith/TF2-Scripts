@@ -1,0 +1,7 @@
+lavenderhud { 
+PlayerStatusClassImage { xpos 5 } 
+HudWeaponAmmoBG { visible 1 } 
+MainShader { visible 0 image replay/thumbnails/null } 
+ValveRcWarning { visible 0 } 
+TransparentViewmodelMask { visible 0 } 
+} 
